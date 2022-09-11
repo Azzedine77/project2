@@ -1,0 +1,35 @@
+body{
+    
+    box-sizing: border-box;
+   
+text-align: right;
+}
+.log{
+    width: 50px;
+  
+    border-radius: 50%;
+}
+.bg_s1{
+}  
+.sec_main{
+background-color: lightslategrey;
+}
+.b_r{
+    border-radius: 30px;
+    background-color: bisque improtant;
+}
+.about h1,h5 ,h3{
+    margin: 3%;
+}
+.h_1{
+font-size: 40px;
+color: red;
+
+}
+.src_ad{
+    margin-top: 800px important;
+    background-color: rosybrown;
+}
+.sec_about{
+background-color: wheat;
+}
